@@ -1,6 +1,6 @@
 ### A little bit about me 👋
 
-- 🔭 I’m currently working on ... Kaggle Titanic Competition
+- 🔭 I’m currently working on ... Metrics Automation Tool in Python
 - 🌱 I’m currently learning ... Everything Data Science related
 - 🤔 I’m looking for help with ... Git & APIs
 - 💬 Ask me about ... Anything!
